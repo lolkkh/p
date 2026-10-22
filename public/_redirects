@@ -1,0 +1,3 @@
+/api/ebooks  https://auth.ssccglpinnacle.com/api/ebooksforactive?active=true  200!
+/api/chapters/:id  https://sujalpinnacletesting.vercel.app/api/chapters/:id  200!
+/api/pdf/:id  https://auth.ssccglpinnacle.com/api/pdfs-ebook/:id  200!

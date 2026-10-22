@@ -1,0 +1,6 @@
+{
+  "name": "Pinnacle Ebook",
+  "description": "Browse Pinnacle available eBooks, view subjects/chapters, and access associated PDF notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

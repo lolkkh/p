@@ -1,0 +1,26 @@
+<svg viewBox="0 0 100 120" xmlns="http://www.w3.org/2000/svg" fill="none">
+  <!-- Layer 1 (Bottom Base) -->
+  <path d="M10 110 L90 110 L82 92 L18 92 Z" fill="#800000" />
+  <path d="M50 110 L90 110 L82 92 L50 92 Z" fill="#b30000" />
+  <line x1="10" y1="110" x2="90" y2="110" stroke="#fca5a5" strokeWidth="1.5" />
+  
+  <!-- Layer 2 -->
+  <path d="M19 90 L81 90 L73 72 L27 72 Z" fill="#990000" />
+  <path d="M50 90 L81 90 L73 72 L50 72 Z" fill="#cc0000" />
+  <line x1="19" y1="90" x2="81" y2="90" stroke="#fca5a5" strokeWidth="1" opacity="0.9" />
+  
+  <!-- Layer 3 -->
+  <path d="M28 70 L72 70 L65 52 L35 52 Z" fill="#b30000" />
+  <path d="M50 70 L72 70 L65 52 L50 52 Z" fill="#e60000" />
+  <line x1="28" y1="70" x2="72" y2="70" stroke="#fca5a5" strokeWidth="1" opacity="0.9" />
+  
+  <!-- Layer 4 -->
+  <path d="M37 50 L63 50 L56 32 L44 32 Z" fill="#cc0000" />
+  <path d="M50 50 L63 50 L56 32 L50 32 Z" fill="#ff1a1a" />
+  <line x1="37" y1="50" x2="63" y2="50" stroke="#fee2e2" strokeWidth="1" opacity="0.9" />
+  
+  <!-- Layer 5 (Top Tip) -->
+  <path d="M45 30 L55 30 L50 10 Z" fill="#e60000" />
+  <path d="M50 30 L55 30 L50 10 Z" fill="#ff3333" />
+  <line x1="45" y1="30" x2="55" y2="30" stroke="#ffffff" strokeWidth="1" opacity="0.95" />
+</svg>
